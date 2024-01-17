@@ -1,0 +1,29 @@
+commit 9b15c79331e70f9fb905d4606a8e248c51d0eebf
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Wed Jan 17 15:32:34 2024 -0700
+
+    project complete
+
+commit 9e1d2ee57a62081206b90cf561b60ee5ef4c89b4
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Wed Jan 17 14:06:50 2024 -0700
+
+    photos positioned
+
+commit c442c25fcc8d4e54e78cb86baf95f77effcd4385
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Wed Jan 17 09:39:58 2024 -0700
+
+    second commit. content page added
+
+commit 9e9e47771da8cb81accf53fee64aee165a0ac65f
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Tue Jan 16 10:30:22 2024 -0700
+
+    first commit. nav bar complete
+
+commit 83d45d045585e3b5a115f2f672889ee154aa9a52
+Author: evcgit <148818330+evcgit@users.noreply.github.com>
+Date:   Tue Jan 16 09:53:58 2024 -0700
+
+    Initial commit
