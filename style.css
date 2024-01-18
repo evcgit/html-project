@@ -102,11 +102,15 @@ p {
 #apple img {
     height: 500px;
     width: 350px;
+    position: relative;
+    z-index: -1;
 }
 
 #pasta img {
     height: 500px;
     width: 350px;
+    position: relative;
+    z-index: -1;
 }
 
 #shrimp {
@@ -114,6 +118,7 @@ p {
     width: 350px;
     overflow: hidden;
     position: relative;
+    z-index: -1;
 }
 
 
@@ -129,7 +134,7 @@ p {
     font-weight: bold;
     padding: 10px;
     font-size: .8rem;
-    position: absolute;
+    position: relative;
 }
 
 .greenLabel {
@@ -138,35 +143,35 @@ p {
     font-weight: bold;
     font-size: .8rem;
     text-align: right; 
-    position: absolute;
+    position: relative;
 }
 
 #w1 {
-   right: 830px;
-   bottom: 278px;
+   left: 290px;
+   bottom: 69px;
 }
 
 #g1 {
-    right: 830px;
-    bottom: 244px;
+    left: 173px;
+    bottom: 33px;
 }
 
 #w2 {
-    bottom: 278px;
-    right: 455px;
+    left: 289px;
+    bottom: 68px;
 }
 
 #g2 {
-    bottom: 244px;
-    right: 455px;
+    left: 199px;
+    bottom: 33px;
 }
 
 #w3 {
-    bottom: 35px;
-    right: 0;
+    left: 270px;
+    bottom: 130px;
 }
 
 #g3 {
-    bottom: 0px;
-    right: 0px;
+    left: 174px;
+    bottom: 95px;
 }
